@@ -23,4 +23,12 @@
         tools:layout_editor_absoluteX="118dp"
         tools:layout_editor_absoluteY="80dp" />
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="174dp"
+        android:layout_height="101dp"
+        android:text="מזל טוב!"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="205dp" />
+
 </android.support.constraint.ConstraintLayout>
